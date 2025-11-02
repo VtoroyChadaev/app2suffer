@@ -1,0 +1,11 @@
+<resources>
+    <string name="appName">app2suffer</string>
+    <string name="greetingActivityA">"Hi! I'm Activity A"</string>
+    <string name="greetingActivityB">"Hi! I'm Activity B"</string>
+    <string name="greetingActivityC">"Hi! I'm Activity C"</string>
+    <string name="ButtonOpenActivityB">"Open Activity B"</string>
+    <string name="ButtonOpenActivityC">"Open Activity C"</string>
+    <string name="ButtonOpenActivityA">"Open Activity A"</string>
+    <string name="buttonGenerateColor">"Generate Color"</string>
+    <string name="colorPrompt">Enter color</string>
+</resources>
